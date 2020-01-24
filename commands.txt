@@ -1,3 +1,0 @@
-		These are some of the commands used in networking:-
-
-1.PING:-The ping command is usually used as a simple way to verify that a computer can communicate over the network with another computer or network device. The ping command operates by sending Internet Control Message Protocol (ICMP) Echo Request messages to the destination computer and waiting for a response.
