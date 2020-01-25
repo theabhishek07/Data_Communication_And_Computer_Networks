@@ -3,3 +3,17 @@ These are some of the commands used in networking:-
 1.PING:-The ping command is usually used as a simple way to verify that a computer can communicate over the network with another computer or network device. The ping command operates by sending Internet Control Message Protocol (ICMP) Echo Request messages to the destination computer and waiting for a response.
 
 2.tracert:-The tracert command is a Command Prompt command that's used to show several details about the path that a packet takes from the computer or device you're on to whatever destination you specify. You might also sometimes see the tracert command referred to as the trace route command or traceroute command.
+
+3.Pathping:- pathping is a TCP/IP based utility (command-line tool) that provides useful information about network latency and network loss at intermediate hops between a source address and a destination address. It does this by sending echo requests via ICMP and analyzing the results.
+
+4.ipconfig:-The ipconfig command is a fast way of determining your computer's IP address and other information, such as the address of its default gateway—useful if you want to know the IP address of your router's web interface. To use the command, just type ipconfig at the Command Prompt.
+
+5.route:-The route command allows you to make manual entries into the network routing tables. The route command distinguishes between routes to hosts and routes to networks by interpreting the network address of the Destination variable, which can be specified either by symbolic name or numeric address.
+
+6.nslookup:-nslookup is a network administration command-line tool available in many computer operating systems for querying the Domain Name System (DNS) to obtain domain name or IP address mapping, or other DNS records. The name "nslookup" means "name server lookup".
+
+7.netstat:-The netstat command, meaning network statistics, is a Command Prompt command used to display very detailed information about how your computer is communicating with other computers or network devices.
+
+8.arp:-The "arp" Command. arp displays and modifies entries in the Address Resolution Protocol (ARP) cache, which contains one or more tables that are used to store IP addresses and their resolved Ethernet or Token Ring physical addresses.
+
+9.getmac:-Getmac is a Windows command used to display the Media Access Control (MAC) addresses for each network adapter in the computer. These activities will show you how to use the getmac command to display MAC addresses.
