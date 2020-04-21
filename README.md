@@ -1,7 +1,6 @@
-# Data_Communication_And_Computer_Networks
 # Data_Communication_And_Computer_Networks :smiley:
 Welcome to Data_Communication_And_Computer_Networks 📋
-This Repository was made to maintain [STUDY CONTENT](), [LAB_WORK](), and all the varoius learning stuff related to Data Communication And Computer Networks in a single space. This Repository is maintained by [theabhishek07](https://github.com/theabhishek07) .This is a public Repository and all sorts of contributions to the code are welcomed.
+This Repository was made to maintain [STUDY CONTENT](https://github.com/theabhishek07/Data_Communication_And_Computer_Networks/tree/master/Study_Material), [LAB_WORK](https://github.com/theabhishek07/Data_Communication_And_Computer_Networks/tree/master/LAB_WORK), and all the varoius learning stuff related to Data Communication And Computer Networks in a single space. This Repository is maintained by [theabhishek07](https://github.com/theabhishek07) .This is a public Repository and all sorts of contributions to the code are welcomed.
 ## You are always welcome to add more or improve any resource in this repository.
 
 # Steps to follow 📜
