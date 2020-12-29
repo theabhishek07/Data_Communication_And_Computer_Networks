@@ -17,3 +17,5 @@ These are some of the commands used in networking:-
 8.arp:-The "arp" Command. arp displays and modifies entries in the Address Resolution Protocol (ARP) cache, which contains one or more tables that are used to store IP addresses and their resolved Ethernet or Token Ring physical addresses.
 
 9.getmac:-Getmac is a Windows command used to display the Media Access Control (MAC) addresses for each network adapter in the computer. These activities will show you how to use the getmac command to display MAC addresses.
+
+10.
